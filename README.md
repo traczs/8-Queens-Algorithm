@@ -1,3 +1,3 @@
 # 8-Queens-Algorithm
 Queensr -> recursive solution
-queensnr + stack -> iterative solution using stack
+Queensnr + stack -> iterative solution using stack
